@@ -1,1 +1,1 @@
-web: -m Evamaria
+web: python bot.py
